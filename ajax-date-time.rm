@@ -1,0 +1,3 @@
+Utilisez le shortcode pour afficher la date et l'heure : Maintenant, vous pouvez utiliser le shortcode [date_time] dans n'importe quelle page ou publication pour afficher la date et l'heure en utilisant AJAX.
+
+Lorsque vous chargerez une page ou une publication contenant le shortcode [date_time], la date et l'heure actuelles seront récupérées via AJAX et affichées dans le conteneur défini. N'oubliez pas de personnaliser le code selon vos besoins spécifiques.
